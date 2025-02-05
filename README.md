@@ -1,1 +1,1 @@
-# proyectoIA
+# proyecto IA
